@@ -1,0 +1,11 @@
+COMBINED COMPANY SALES REPORT
+=============================
+
+All Completed Orders:
+- Item: Wireless Mouse | Qty: 2 | Total: USD 50
+- Item: Mechanical Keyboard | Qty: 1 | Total: USD 80
+- Item: USB-C Hub | Qty: 1 | Total: USD 40
+- Item: Desk Mat | Qty: 3 | Total: USD 60
+
+=============================
+Grand Total Sales: USD 230
